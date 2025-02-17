@@ -12,9 +12,9 @@ El objetivo de este proyecto es implementar una GAN capaz de generar imágenes r
 
 * GAN_mnist_prendas_FernandezAlejandro.ipynb → Cuaderno Jupyter con la implementación del código. 📓 
 
-* Modelos entrenados: generador_fashion_101ep.keras y discriminador_fashion_101ep.keras. 🤖 
+* Modelos entrenados: `generador_fashion_101ep.keras` y `discriminador_fashion_101ep.keras`. 🤖 
 
-* Muestra de imágenes generadas: imagenes_generadas.png. 🖼️ 
+* Muestra de imágenes generadas: `imagenes_generadas.png`. 🖼️ 
 
 ## Resultados y Posibles Mejoras 📊 
 
